@@ -15,6 +15,8 @@ We provide installation instructions for Windows 10 and MacOS. The latter can be
 distributions such as Ubuntu. We expect that users have some experience programming in Python and using basic tools 
 such as pip and git.
 
+Course Instructors: Anna Leontjeva and Pantelis Elinas
+
 ### Instructions for MacOS
 
 [1] Install a Python 3 (version 3.6) distribution. We recommend 
@@ -67,6 +69,19 @@ or if created using `virtualenv` use the command,
 should use the following command,
 
 `python -m ipykernel install --user --name=practical-ml`
+
+[10] You can verify that you have the correct version of stellargraph installed by using the command,
+
+ `python -c “import stellargraph as sg; print(sg.__version__)”`
+
+Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command should print
+0.5.0
+
+[11] You can now run jupyter notebook using the command,
+
+`jupyter notebook`
+
+You can access the course notebooks using your web browser at localhost:8888
 
 
 **The installation should now be complete.**
@@ -136,6 +151,19 @@ the command,
 You should use the following command,
 
 `python -m ipykernel install --user --name=practical-ml`
+
+[13] You can verify that you have the correct version of `stellargraph` installed by using the command,
+ 
+`python -c “import stellargraph as sg; print(sg.__version__)”`
+ 
+Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command should print
+0.5.0
+
+[14] You can now run jupyter notebook using the command,
+
+`jupyter notebook`
+
+You can access the course notebooks using your web browser at localhost:8888
 
 
 **The installation should now be complete.**
