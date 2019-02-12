@@ -74,8 +74,10 @@ should use the following command,
 
  `python -c “import stellargraph as sg; print(sg.__version__)”`
 
-Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command should print
-0.5.0
+Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command 
+should print
+
+`0.5.0`
 
 [11] You can now run jupyter notebook using the command,
 
@@ -109,7 +111,7 @@ command,
 
 if the installation was successful then it should print the pip version,
 
-`pip 9.0.1`
+`pip 19.0.2`
 
 [3] Install `virtualenv` using the following command,
 
@@ -157,7 +159,8 @@ You should use the following command,
 `python -c “import stellargraph as sg; print(sg.__version__)”`
  
 Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command should print
-0.5.0
+
+`0.5.0`
 
 [14] You can now run jupyter notebook using the command,
 
