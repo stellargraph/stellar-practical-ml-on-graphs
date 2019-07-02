@@ -77,7 +77,7 @@ should use the following command,
 Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command 
 should print
 
-`0.6.0`
+`0.7.1`
 
 [11] You can now run jupyter notebook using the command,
 
@@ -160,7 +160,7 @@ You should use the following command,
  
 Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command should print
 
-`0.6.0`
+`0.7.1`
 
 [14] You can now run jupyter notebook using the command,
 
