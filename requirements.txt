@@ -1,5 +1,5 @@
 stellargraph
-scipy==1.0.1
+scipy
 ipykernel
 scikit-learn
 seaborn
