@@ -72,7 +72,7 @@ should use the following command,
 
 [10] You can verify that you have the correct version of stellargraph installed by using the command,
 
- `python -c “import stellargraph as sg; print(sg.__version__)”`
+ `python -c "import stellargraph as sg; print(sg.__version__)"`
 
 Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command 
 should print
