@@ -1,4 +1,4 @@
-stellargraph
+stellargraph[demos]
 scipy
 ipykernel
 scikit-learn

@@ -22,7 +22,7 @@ Course Instructors: Anna Leontjeva and Pantelis Elinas
 [1] Install a Python 3 (version 3.6) distribution. We recommend 
 Anaconda that can be downloaded by clicking
 [here.](https://conda.io/docs/user-guide/install/download.html) Alternatively, install
-Python 3.6 from [here](https://www.python.org/downloads/release/python-362/) and also
+Python 3.6 from [here](https://www.python.org/downloads/release/python-369/) and also
 `virtualenv` via the command `pip install virtualenv`.
 
 [2] Download and install the latest version of `git` from [here.](https://git-scm.com/download/mac)
