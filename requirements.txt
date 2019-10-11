@@ -1,6 +1,7 @@
-stellargraph[demos]
-scipy
+stellargraph[demos]==0.7.1
+numpy==1.16.1
+pandas==0.25.0
 ipykernel
-scikit-learn
-seaborn
-pandas
+scikit-learn==0.21.3
+seaborn==0.9.0
+tensorflow==1.14.0
