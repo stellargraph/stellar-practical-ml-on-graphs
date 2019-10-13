@@ -1,4 +1,4 @@
-stellargraph[demos]==0.7.1
+stellargraph[demos]==0.7.2
 numpy==1.16.1
 pandas==0.25.0
 ipykernel
