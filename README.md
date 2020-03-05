@@ -77,7 +77,7 @@ should use the following command,
 Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command 
 should print
 
-`0.8.2`
+`0.10.0`
 
 [11] You can now run jupyter notebook using the command,
 
@@ -160,7 +160,7 @@ You should use the following command,
  
 Pay attention to the double quotes and the __ is two underscores (before and after the word version.) The above command should print
 
-`0.8.2`
+`0.10.0`
 
 [14] You can now run jupyter notebook using the command,
 
@@ -173,7 +173,7 @@ You can access the course notebooks using your web browser at localhost:8888
 
 ## License
 
-Copyright 2010-2019 Commonwealth Scientific and Industrial Research Organisation (CSIRO).
+Copyright 2010-2020 Commonwealth Scientific and Industrial Research Organisation (CSIRO).
 
 All Rights Reserved.
 
