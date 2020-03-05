@@ -1,3 +1,4 @@
+tensorflow==2.1.0
 stellargraph==0.10.0
 scipy
 ipykernel
