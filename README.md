@@ -4,7 +4,7 @@
 
 This document describes how to prepare your system for the Practical Machine Learning on Graphs course. 
 
-The main requirements are **Python 3.6** and a set of python modules listed in the file **requirements.txt** 
+The main requirements are **Python 3.6 or 3.7** and a set of python modules listed in the file **requirements.txt** 
 with the correct module version numbers. 
 
 We cannot guarantee that you will be able to do the course exercises if you don’t have the correct software tools 
@@ -19,7 +19,7 @@ Course Instructors: Anna Leontjeva and Pantelis Elinas
 
 ### Instructions for MacOS
 
-[1] Install a Python 3 (version 3.6) distribution. We recommend 
+[1] Install a Python 3 (version 3.6 or 3.7) distribution. We recommend 
 Anaconda that can be downloaded by clicking
 [here.](https://conda.io/docs/user-guide/install/download.html) Alternatively, install
 Python 3.6 from [here](https://www.python.org/downloads/release/python-369/) and also
@@ -91,7 +91,7 @@ You can access the course notebooks using your web browser at localhost:8888
 
 ### Instructions for Windows 10
 
-[1] Install a Python 3 (version 3.6) distribution. You can download the recommended 
+[1] Install a Python 3 (version 3.6 or 3.7) distribution. You can download the recommended 
 version from [here](https://www.python.org/downloads/release/python-362/). Make sure to select the
 option to **Add Python 3.6 to PATH** on the Setup screen.
 
