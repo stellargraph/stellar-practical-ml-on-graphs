@@ -4,7 +4,7 @@
 
 This course introduces graph machine learning, with a practical focus based on the [StellarGraph library](https://github.com/stellargraph/stellargraph).
 
-You'll find the course slides [here.](slides)
+The course slides are available in [the `slides/` directory](slides).
 
 ## Preparation
 
