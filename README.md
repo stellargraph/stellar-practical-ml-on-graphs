@@ -2,20 +2,18 @@
 
 ## Overview
 
-This document describes how to prepare your system for the Practical Machine Learning on Graphs course. 
+This course introduces graph machine learning, with a practical focus based on the [StellarGraph library](https://github.com/stellargraph/stellargraph).
+
+The course slides are available in [the `slides/` directory](slides).
+
+## Preparation
 
 The main requirements are **Python 3.6 or 3.7** and a set of python modules listed in the file **requirements.txt** 
 with the correct module version numbers. 
 
-We cannot guarantee that you will be able to do the course exercises if you don’t have the correct software tools 
-installed on your machine. Please take care to make sure your system is up to date as we will have limited capacity to 
-help you with software installation during the course.
-
 We provide installation instructions for Windows 10 and MacOS. The latter can be used as a guide for common Linux 
 distributions such as Ubuntu. We expect that users have some experience programming in Python and using basic tools 
 such as pip and git.
-
-Course Instructors: Anna Leontjeva and Pantelis Elinas
 
 ### Instructions for MacOS
 
